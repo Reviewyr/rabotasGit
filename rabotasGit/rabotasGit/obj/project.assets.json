@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pl9017\\Desktop\\rabotasGit\\rabotasGit\\rabotasGit\\rabotasGit.csproj",
+      "projectUniqueName": "C:\\Users\\pl9017\\Desktop\\Новая папка\\rabotasGit\\rabotasGit\\rabotasGit\\rabotasGit.csproj",
       "projectName": "rabotasGit",
-      "projectPath": "C:\\Users\\pl9017\\Desktop\\rabotasGit\\rabotasGit\\rabotasGit\\rabotasGit.csproj",
+      "projectPath": "C:\\Users\\pl9017\\Desktop\\Новая папка\\rabotasGit\\rabotasGit\\rabotasGit\\rabotasGit.csproj",
       "packagesPath": "C:\\Users\\pl9017\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pl9017\\Desktop\\rabotasGit\\rabotasGit\\rabotasGit\\obj\\",
+      "outputPath": "C:\\Users\\pl9017\\Desktop\\Новая папка\\rabotasGit\\rabotasGit\\rabotasGit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pl9017\\AppData\\Roaming\\NuGet\\NuGet.Config",

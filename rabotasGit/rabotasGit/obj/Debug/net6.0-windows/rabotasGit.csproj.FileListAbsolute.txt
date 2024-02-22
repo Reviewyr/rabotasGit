@@ -15,3 +15,20 @@ C:\Users\pl9017\Desktop\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-window
 C:\Users\pl9017\Desktop\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.pdb
 C:\Users\pl9017\Desktop\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.genruntimeconfig.cache
 C:\Users\pl9017\Desktop\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\ref\rabotasGit.dll
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\bin\Debug\net6.0-windows\rabotasGit.exe
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\bin\Debug\net6.0-windows\rabotasGit.deps.json
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\bin\Debug\net6.0-windows\rabotasGit.runtimeconfig.json
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\bin\Debug\net6.0-windows\rabotasGit.dll
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\bin\Debug\net6.0-windows\rabotasGit.pdb
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.csproj.AssemblyReference.cache
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.Form1.resources
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.csproj.GenerateResource.cache
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.AssemblyInfoInputs.cache
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.AssemblyInfo.cs
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.csproj.CoreCompileInputs.cache
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.dll
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\refint\rabotasGit.dll
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.pdb
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\rabotasGit.genruntimeconfig.cache
+C:\Users\pl9017\Desktop\Новая папка\rabotasGit\rabotasGit\rabotasGit\obj\Debug\net6.0-windows\ref\rabotasGit.dll
